@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript"  src="mootools-1.2.4-core-yc.js" ></script>
+<!--<script type="text/javascript" src="mootools-1.2.4.2-more.js" ></script>-->
+<script type="text/javascript"  src="../Source/mooClouds.js" ></script>
+<link  rel="stylesheet" type="text/css"  href="style.css" />
+<script type="text/javascript"  >
+	window.addEvent('domready', function() {
+		window.mc=new mooClouds({
+			maxDynClouds:5,
+			maxStatClouds:10,
+			cloudsClassesNum:4,
+			cloudsClasses:"clouds",
+			containerID:"container",
+			contX:null,
+			contY:null,
+			
+		});
+});
+
+</script>
+</head>
+<body>
+	<div id="nav">
+		<a href="javascript:window.mc.generateClouds();">generate</a>
+		<a href="javascript:window.mc.destroyClouds();">destroy</a>
+		<a href="#">mooClouds Page</a>
+		<a href="http://eqepa.com">eqepa</a>
+	</div>
+	
+<div id="container">	
+</div>
+
+</body>

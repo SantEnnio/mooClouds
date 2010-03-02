@@ -1,0 +1,45 @@
+body{ background:#c2d9f3 url(bg.jpg) repeat-x; margin:0;padding:0; font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:bold;}a,a:visited,a:hover{color:black;text-decoration:none;}
+#nav{
+	border-bottom:1px solid #FFFFFF;
+	border-top:4px solid #0071BC;
+	position:absolute;
+	top:0;
+	z-index:2;
+	height:auto;
+	left:0;
+	right:0;
+	background:#FFFFFF url(navigation.gif) repeat-x scroll center bottom;
+}
+
+a{
+	text-align:center;
+	padding:2px 10px;
+	float:left;
+	text-transform:uppercase;
+	cursor:pointer;
+	border-right:1px solid white;
+}
+a:hover{
+	color:#0070BC
+}
+
+.clouds{
+	z-index:3;
+	width:300px;
+	height:200px;
+	position:absolute;
+}
+.clouds1{
+	background:url(Cloud300x200_1.png) no-repeat center;
+}
+.clouds2{
+	background:url(Cloud300x200_2.png) no-repeat center;
+}
+.clouds3{
+	background:url(Cloud300x200_3.png) no-repeat center;
+}
+.clouds4{
+	background:url(Cloud500x400_1.png) no-repeat center;
+	width:500px;
+	height:400px;
+}
