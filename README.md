@@ -3,7 +3,7 @@ mooClouds
 
 A simple mootools class that injects dynamic elements on the page, like clouds
 
-![mooClouds](urlLogo)
+![mooClouds](http://eqepa.com/Playground/Mootools/mooClouds/mooClouds187x80.png)
  
 How to use
 ----------
@@ -31,7 +31,7 @@ In the html file you have only to set a div with an id.
 		});
 	mc.generateClouds(); //injects the clouds in the div
 	
-	mc.destroyClouds(); //destroies all clouds created
+	mc.destroyClouds(); //destroys all clouds created
 	
 	
 *PARAMS*
@@ -81,6 +81,6 @@ So you can create all css classes you want, and you can put inside what do you w
 *NOTES, DEMO & DOCUMENTATION*
 
 The class is tested with Firefox 3.5, Chrome 4.0 and Internet Explorer 8.
-[Here]() it is a basic demo with 5 dynamic and 10 static clouds.
-View the [mooClouds page]() for more detailed documentation.
+[Here](http://eqepa.com/Playground/Mootools/mooClouds/Example/demo.html) it is a basic demo with 5 dynamic and 10 static clouds.
+View the [mooClouds page](http://eqepa.com/en/projects/mootools-plugins/mooclouds/) for more detailed documentation.
 For comments and bug report please leave a comment on this [presentation post] ().
