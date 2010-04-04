@@ -28,7 +28,7 @@ var mooClouds=new Class({
 		cloudsClasses:"clouds",
 		containerID:null,
 		contX:null,
-		contY:null,
+		contY:null
 	},
 	cContSizeX:0,
 	cContSizeY:0,

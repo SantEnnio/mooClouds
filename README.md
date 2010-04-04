@@ -26,7 +26,7 @@ In the html file you have only to set a div with an id.
 			cloudsClasses:"clouds",
 			containerID:"container",
 			contX:null,
-			contY:null,
+			contY:null
 			
 		});
 	mc.generateClouds(); //injects the clouds in the div
