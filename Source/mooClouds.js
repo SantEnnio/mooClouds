@@ -117,7 +117,7 @@ var mooClouds=new Class({
 	},
 	setContainer:function(){
 		
-		this.cCont.setStyle("position","absolute");
+		this.cCont.setStyle("position","relative");
 		this.cCont.setStyle("z-index",0);
 		this.cCont.setStyle("overflow","hidden");
 		
