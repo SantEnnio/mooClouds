@@ -81,6 +81,6 @@ So you can create all css classes you want, and you can put inside what do you w
 *NOTES, DEMO & DOCUMENTATION*
 
 The class is tested with Firefox 3.5, Chrome 4.0 and Internet Explorer 8.
-[Here](http://eqepa.com/Playground/Mootools/mooClouds/Example/demo.html) it is a basic demo with 5 dynamic and 10 static clouds.
+[Here](http://enniopirolo.name/demos/mooclouds/Example/demo.html) it is a basic demo with 5 dynamic and 10 static clouds.
 View the [mooClouds page](http://www.enniopirolo.name/projects/mootools-projects/mooclouds/) for more detailed documentation.
 For comments and bug report please leave a comment [here](http://www.enniopirolo.name/projects/mootools-projects/mooclouds/).
